@@ -1,13 +1,13 @@
-package br.com.heart.sisodont;
+package br.com.heart.sysodont;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SisodontApplication {
+public class SysOdontApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SisodontApplication.class, args);
+		SpringApplication.run(SysOdontApplication.class, args);
 	}
 
 }

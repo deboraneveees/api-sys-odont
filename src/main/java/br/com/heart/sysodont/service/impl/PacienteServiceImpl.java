@@ -1,7 +1,7 @@
-package br.com.heart.sisodont.service.impl;
+package br.com.heart.sysodont.service.impl;
 
-import br.com.heart.sisodont.model.Paciente;
-import br.com.heart.sisodont.service.PacienteService;
+import br.com.heart.sysodont.model.Paciente;
+import br.com.heart.sysodont.service.PacienteService;
 import org.springframework.stereotype.Service;
 
 import java.util.Map;

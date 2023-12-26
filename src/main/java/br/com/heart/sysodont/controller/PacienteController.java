@@ -1,8 +1,8 @@
-package br.com.heart.sisodont.controller;
+package br.com.heart.sysodont.controller;
 
-import br.com.heart.sisodont.dto.PacienteDto;
-import br.com.heart.sisodont.model.Paciente;
-import br.com.heart.sisodont.service.PacienteService;
+import br.com.heart.sysodont.dto.PacienteDto;
+import br.com.heart.sysodont.model.Paciente;
+import br.com.heart.sysodont.service.PacienteService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

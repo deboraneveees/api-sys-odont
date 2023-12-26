@@ -1,6 +1,6 @@
-package br.com.heart.sisodont.service;
+package br.com.heart.sysodont.service;
 
-import br.com.heart.sisodont.model.Paciente;
+import br.com.heart.sysodont.model.Paciente;
 
 public interface PacienteService {
     Paciente save(Paciente paciente);

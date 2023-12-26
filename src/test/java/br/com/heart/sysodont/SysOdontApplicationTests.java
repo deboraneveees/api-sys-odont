@@ -1,10 +1,10 @@
-package br.com.heart.sisodont;
+package br.com.heart.sysodont;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SisodontApplicationTests {
+class SysOdontApplicationTests {
 
 	@Test
 	void contextLoads() {

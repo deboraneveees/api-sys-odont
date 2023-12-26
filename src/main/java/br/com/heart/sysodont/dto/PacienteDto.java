@@ -1,7 +1,6 @@
-package br.com.heart.sisodont.model;
+package br.com.heart.sysodont.dto;
 
-public class Paciente {
-
+public class PacienteDto {
     private Long id;
     private String nome;
     private String cpf;
